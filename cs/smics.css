@@ -1,0 +1,21 @@
+#Title {
+    font-size: 60px;
+}
+p span.Body-1 {
+    font-size: 45px;
+    font-weight: bold;
+    margin-right: 2px;
+}
+p.Titles {
+    font-size:45px;
+    font-weight: bold;
+}
+p.all-list {
+    font-size:25px;
+    font-weight: light;
+}
+p.Source-Title {
+    font-size:25px;
+    font-weight:lighter;
+}
+
