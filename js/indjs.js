@@ -1,6 +1,6 @@
-function J1() {
+function Jombarticle1() {
     window.location.href = "mt.html";
    }
-function J2() {
+function Jombarticle2() {
     window.location.href = "smi.html";
    }
