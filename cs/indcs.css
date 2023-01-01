@@ -8,3 +8,63 @@
     cursor: pointer;
     position: relative;
 }
+/*Global CSS*/
+
+
+ /*Mental Health Section*/
+ #Title-MT {
+    font-size: 40px;
+}
+p span.Body-1 {
+    font-size: 45px;
+    font-weight: bold;
+    margin-right: 2px;
+}
+p.Body-2-Title {
+    font-size:25px;
+    font-weight: bold;
+}
+p.Body-3-Title {
+    font-size:25px;
+    font-weight: bold;
+}
+
+/*Social Media and Devices Section*/
+#Title-SMI {
+    font-size: 60px;
+}
+p span.Body-2 {
+    font-size: 45px;
+    font-weight: bold;
+    margin-right: 2px;
+}
+p.Titles {
+    font-size:45px;
+    font-weight: bold;
+}
+p.all-list {
+    font-size:25px;
+    font-weight: light;
+}
+
+/*Secure Boot and Android ROM's*/
+#Title-ASB {
+    font-size: 60px;
+}
+p span.Body-2 {
+    font-size: 45px;
+    font-weight: bold;
+    margin-right: 2px;
+}
+p.Titles {
+    font-size:45px;
+    font-weight: bold;
+}
+p.all-list {
+    font-size:25px;
+    font-weight: light;
+}
+p.Source-Title2 {
+    font-size:25px;
+    font-weight:lighter;
+}
