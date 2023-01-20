@@ -1,3 +1,4 @@
+/*Global CSS*/
 .TB {
     transition-duration: 0.4s;
     opacity: 0.5;
@@ -8,9 +9,6 @@
     cursor: pointer;
     position: relative;
 }
-/*Global CSS*/
-
-
  /*Mental Health Section*/
  #Title-MT {
     font-size: 40px;
@@ -46,7 +44,28 @@ p.all-list {
     font-size:25px;
     font-weight: light;
 }
-
+/*The Honorato Times*/
+#Title-THT {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif, 'Liberation Serif';
+}
+#Title-THT2 {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif, 'Liberation Serif';
+}
+.Title-THT3 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif, 'Liberation Serif';
+}
+#Body1 {
+    background-color: #799DA9;
+    color: white;
+    text-align: center;
+}
+.list-style {
+    font-size:25px;
+    font-weight: light;
+}
 /*Secure Boot and Android ROM's*/
 #Title-ASB {
     font-size: 60px;
