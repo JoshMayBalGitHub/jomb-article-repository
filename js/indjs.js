@@ -4,3 +4,6 @@ function Jombarticle1() {
 function Jombarticle2() {
     window.location.href = "smi.html";
    }
+function Jombspecialtht() {
+    window.location.href = "tht.html";
+}
