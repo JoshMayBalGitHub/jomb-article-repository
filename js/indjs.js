@@ -7,3 +7,9 @@ function Jombarticle2() {
 function Jombspecialtht() {
     window.location.href = "tht.html";
 }
+setInterval(function() {
+    let tht_text = document.getElementById("thtext").innerHTML;
+    var date = new Date();
+    var time = date.toLocaleTimeString();
+    document.getElementById("Title-THT-time").innerHTML = tht_text + time;
+  }, 1000);

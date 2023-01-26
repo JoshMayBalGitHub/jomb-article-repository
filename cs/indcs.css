@@ -45,6 +45,13 @@ p.all-list {
     font-weight: light;
 }
 /*The Honorato Times*/
+#Title-THT-time {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif, 'Liberation Serif';
+}
+#thtext {
+    display: none;
+}
 #Title-THT {
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif, 'Liberation Serif';
