@@ -9,6 +9,9 @@ button {
     cursor: pointer;
     position: relative;
 }
+a {
+    text-decoration: none;
+}
  /*Mental Health Section*/
  #Title-MT {
     font-size: 40px;
