@@ -77,6 +77,10 @@ p.all-list {
     font-size:25px;
     font-weight: light;
 }
+.text-link {
+    color:white;
+    text-decoration: underline;
+}
 /*Secure Boot and Android ROM's*/
 #Title-ASB {
     font-size: 60px;
