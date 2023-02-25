@@ -10,4 +10,4 @@ Repositories of all of my articles to push to my website
 Mozilla Public License v2.0
 
 ## Project status 
-Rarely updated.
+Rarely updated. EXCEPT NOW FOR THE SCHOOL ANNOUNCEMENTS AS THEY UPDATE EVERY DAY...
