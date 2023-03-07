@@ -1,4 +1,7 @@
 /*Global CSS*/
+html {
+    scroll-behavior: smooth;
+}
 button {
     transition-duration: 0.4s;
     opacity: 0.5;
