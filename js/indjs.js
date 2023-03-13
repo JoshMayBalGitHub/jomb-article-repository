@@ -17,7 +17,7 @@ function Jombspecialtht() {
 function Jombspecialintrams1() {
     window.location.href="intram2023.html";
 }
-function Jombspecialintrams1() {
+function Jombspecialann() {
     window.location.href="Announcements.html";
 }
 // Test Clock
