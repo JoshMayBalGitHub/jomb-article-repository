@@ -113,3 +113,11 @@ p.Source-Title2 {
     list-style-position: inside;
 }
 
+/*SciHi Navigator*/
+.Title-THT2 {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif, 'Liberation Serif';
+}
+.text-white {
+    color: whitesmoke;
+}
