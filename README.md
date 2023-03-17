@@ -1,13 +1,18 @@
-# Article-Repository
+# Jomb-Article-Repository
 
-Repositories of all of my articles to push to my website
+This is a article / newspaper / school / website that was created by me and others (see [Credits](#credits)), to have fun! and for school too!
 
+At: https://joshmaybaljomb.tk/ (JavaScript is required)
 ## Visuals
-![Preview](https://gitlab.com/JoshMayBalGitHub/article-repository/-/raw/main/img/preview.png)
-![Preview2](https://gitlab.com/JoshMayBalGitHub/article-repository/-/raw/main/img/preview2.png)
+![Preview](img/preview.png)
+![Preview2](img/preview2.png)
+![Preview3](img/preview3.png)
+
+## Credits
+Vicente's Announcements / Announcements.html - Made by [Vicente Amugauan](https://gitlab.com/amugauanv) 
 
 ## License
 Mozilla Public License v2.0
 
 ## Project status 
-Rarely updated. EXCEPT NOW FOR THE SCHOOL ANNOUNCEMENTS AS THEY UPDATE EVERY DAY...
+School stuff is active and the articles are rarely updated.
