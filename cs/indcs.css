@@ -70,6 +70,7 @@ p.all-list {
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif, 'Liberation Serif';
 }
+
 #Body1 {
     background-color: #799DA9;
     color: white;
@@ -84,6 +85,27 @@ p.all-list {
     color:white;
     text-decoration: underline;
 }
+.bold-italic {
+    font-weight: bolder;
+    font-style: oblique;
+}
+/*Intramurals 2023*/
+#Body2 {
+    background-color: darkgoldenrod;
+    color: white;
+    text-align: center;
+    list-style-position: inside;
+}
+
+/*SciHi Navigator*/
+.Title-THT2 {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif, 'Liberation Serif';
+}
+.text-white {
+    color: whitesmoke;
+}
+/*Moved below because i wasnt finished LOL*/
 /*Secure Boot and Android ROM's*/
 #Title-ASB {
     font-size: 60px;
@@ -104,20 +126,4 @@ p.all-list {
 p.Source-Title2 {
     font-size:25px;
     font-weight:lighter;
-}
-/*Intramurals 2023*/
-#Body2 {
-    background-color: darkgoldenrod;
-    color: white;
-    text-align: center;
-    list-style-position: inside;
-}
-
-/*SciHi Navigator*/
-.Title-THT2 {
-    font-size: 35px;
-    font-family: 'Times New Roman', Times, serif, 'Liberation Serif';
-}
-.text-white {
-    color: whitesmoke;
 }
