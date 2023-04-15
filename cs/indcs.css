@@ -15,6 +15,14 @@ button {
 a {
     text-decoration: none;
 }
+/*Shared between Articles*/
+#Title-SMI-V {
+    font-size: 60px;
+}
+/*Article Navigator Section*/
+.article-body {
+    text-align:center;
+}
  /*Mental Health Section*/
  #Title-MT {
     font-size: 40px;
@@ -33,22 +41,23 @@ p.Body-3-Title {
     font-weight: bold;
 }
 
-/*Social Media and Devices Section*/
-#Title-SMI {
-    font-size: 60px;
-}
-p span.Body-2 {
+/*Social Media and Devices Section, Secure Boot and Android ROM's*/
+.big-letter {
     font-size: 45px;
     font-weight: bold;
     margin-right: 2px;
 }
-p.Titles {
+.titles {
     font-size:45px;
     font-weight: bold;
 }
-p.all-list {
+.all-list {
     font-size:25px;
     font-weight: light;
+}
+.Source-Title {
+    font-size:25px;
+    font-weight:lighter;
 }
 /*The Honorato Times*/
 #Title-THT-time {
@@ -105,25 +114,4 @@ p.all-list {
 .text-white {
     color: whitesmoke;
 }
-/*Moved below because i wasnt finished LOL*/
-/*Secure Boot and Android ROM's*/
-#Title-ASB {
-    font-size: 60px;
-}
-p span.Body-2 {
-    font-size: 45px;
-    font-weight: bold;
-    margin-right: 2px;
-}
-p.Titles {
-    font-size:45px;
-    font-weight: bold;
-}
-p.all-list {
-    font-size:25px;
-    font-weight: light;
-}
-p.Source-Title2 {
-    font-size:25px;
-    font-weight:lighter;
-}
+
