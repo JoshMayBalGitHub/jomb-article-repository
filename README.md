@@ -2,7 +2,7 @@
 
 This is a article / newspaper / school / website that was created by me and others (see [Credits](#credits)), to have fun! and for school too!
 
-At: https://joshmaybaljomb.tk/ (JavaScript is required)
+At: https://joshmaybaljomba.netlify.app (JavaScript is required)
 ## Visuals
 ![Preview](img/preview.png)
 ![Preview2](img/preview2.png)
