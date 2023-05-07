@@ -60,6 +60,22 @@ a {
   padding-top: 60px;
 }
 </style>
+<script>
+  window.addEventListener('load', function() {
+    window.onscroll = function() {myFunction()};
+  
+  var navbar = document.getElementById("navbar");
+  var sticky = navbar.offsetTop;
+  
+  function myFunction() {
+    if (window.pageYOffset >= sticky) {
+      navbar.classList.add("sticky")
+    } else {
+      navbar.classList.remove("sticky");
+    }
+  }
+});
+  </script>
 <title>Announcements - 8-Pearl</title>
 <link rel="icon" type="image/x-icon" href="img/special-ar-favicon.ico">
 <div style="background-color:#FFFAF1;padding:30px; border-style: solid;" id="home">
@@ -90,8 +106,7 @@ a {
 <div style="text-align: center;">
 <h1>Holidays</h1>
 <iframe src="https://calendar.google.com/calendar/embed?src=en.philippines%23holiday%40group.v.calendar.google.com&ctz=Asia%2FManila" style="border: 3px solid black;
-" width="600" height="400" frameborder="3" scrolling="no"></iframe>
-<br><br><br><br><br><br>
+" width="600" height="400" frameborder="3" scrolling="no"></iframe><br>
 <h1>Schedule</h1>
 <br>
 <img src="img/Schedule.png" width="600" height="400" style="border: 3px solid black;">
@@ -145,19 +160,5 @@ a {
 <li>Accomplish your missing activities!</li><br>
 <li>P.S. that's all the things I remember...</li><br><li>Kung may kulang mali, o may idadagdag kayo sa announcements, message in gc!</li>
 </ul></div>
-<script>
-window.onscroll = function() {myFunction()};
-
-var navbar = document.getElementById("navbar");
-var sticky = navbar.offsetTop;
-
-function myFunction() {
-  if (window.pageYOffset >= sticky) {
-    navbar.classList.add("sticky")
-  } else {
-    navbar.classList.remove("sticky");
-  }
-}
-</script>
 </body>
 </html>
