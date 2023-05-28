@@ -118,4 +118,15 @@ p.Body-3-Title {
 .text-white {
     color: whitesmoke;
 }
+/*Family Day 2023*/
+#Body3 {
+    background-color:#3fa181;
+    color: white;
+    text-align: center;
+    list-style-position: inside;
+}
+.events-sc-img-2 {
+    width: 900px;
+    height: 600px;
+}
 
