@@ -130,3 +130,11 @@ p.Body-3-Title {
     height: 600px;
 }
 
+/*9-Lithium Default*/
+#Body-lithium {
+    background-color: #ba508f;
+    color: white;
+    text-align: center;
+    list-style-position: inside;
+}
+
