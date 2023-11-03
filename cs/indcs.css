@@ -138,3 +138,17 @@ p.Body-3-Title {
     list-style-position: inside;
 }
 
+/*INSPARKS*/
+#Body-RO {
+    background-color: #289786;
+    color: white;
+    text-align: center;
+}
+.blur-image {
+    backdrop-filter: blur(4px);
+}
+#Title-INS {
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif, 'Liberation Serif';
+}
+
