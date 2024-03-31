@@ -15,4 +15,4 @@ Vicente's Announcements / Announcements.html - Made by [Vicente Amugauan](https:
 Mozilla Public License v2.0
 
 ## Project status 
-School stuff is active and the articles are rarely updated.
+School stuff is inactive and the articles are rarely updated too.
