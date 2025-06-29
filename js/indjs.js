@@ -13,3 +13,33 @@ function Jombarticle() {
 function Jombspecialscihi() {
     window.location.href = "scihi-navigator.html";
 }
+
+function Jombathonta() {
+    window.location.href = "thonta-navigator.html";
+}
+
+function Jombathontaagain() {
+    window.location.href = "../thonta-navigator.html";
+}
+
+// sticky navbar don't touch
+
+window.addEventListener('load', function() {
+  window.onscroll = function() {stickyNavbar()};
+  
+var navbar = document.getElementById("sticky-navbar-tb");
+var sticky = navbar.offsetTop;
+
+function stickyNavbar() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky-navbar")
+  } else {
+    navbar.classList.remove("sticky-navbar");
+  }
+}
+});
+
+function chapix() {
+    document.getElementById("js-ddcont").classList.toggle("show-ddcont");
+}
+
