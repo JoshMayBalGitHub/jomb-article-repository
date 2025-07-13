@@ -2,15 +2,6 @@
 html {
     scroll-behavior: smooth;
 }
-button {
-    transition-duration: 0.4s;
-    padding: 15px 37px;
-    font-size: x-large;
-    text-align: center;
-    display: inline-block;
-    cursor: pointer;
-    position: relative;
-}
 a {
     text-decoration: none;
 }
@@ -20,11 +11,21 @@ a {
 }
 
 /*The Honorato Times (Reused)*/
-#Title-THT-time {
+
+/*TODO: Change the repeating IDs in the thta pages to classes¸ and fully customize to fit thta, rather than reusing tht-old — jmb~*/
+
+.normal-THT {  /*40px text, also non-floating time*/
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif, 'Liberation Serif';
 }
+
+.fl-time { /*used for floating time*/
+    color:black;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif, 'Liberation Serif';
+}
 #thtext {
+    color:black;
     display: none;
 }
 #Title-THT {
