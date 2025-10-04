@@ -19,7 +19,7 @@ function Jombathonta() {
 }
 
 function Jombathontaagain() {
-    window.location.href = "../thonta-navigator.html";
+    window.location.href = "../../thonta-navigator.html";
 }
 
 // sticky navbar don't touch
